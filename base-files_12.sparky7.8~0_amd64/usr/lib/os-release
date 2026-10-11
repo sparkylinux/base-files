@@ -1,0 +1,11 @@
+PRETTY_NAME="SparkyLinux 7.8 (Orion-Belt)"
+NAME="SparkyLinux"
+VERSION_ID="7.8"
+VERSION="7.8 (Orion-Belt)"
+ID=sparky
+ID_LIKE=debian
+HOME_URL="https://sparkylinux.org/"
+SUPPORT_URL="https://sparkylinux.org/forum/"
+BUG_REPORT_URL="https://sourceforge.net/p/sparkylinux/tickets"
+VERSION_CODENAME=orion-belt
+DEBIAN_CODENAME=bookworm
